@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Pydantic-0f172a?style=for-the-badge&logo=pydantic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Alembic-1f2937?style=for-the-badge"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="90" height="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="90" height="90"/>
 </p>
 
 ## IDE
@@ -32,7 +33,6 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100"/>
 </p>
 
