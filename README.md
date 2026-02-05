@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Alembic-1f2937?style=for-the-badge"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="90" height="90"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="90" height="90"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ## IDE
